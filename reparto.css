@@ -1,0 +1,35 @@
+body {
+      font: 400 15px Tahoma, sans-serif; 
+      line-height: 1.8;
+      color: #fff;
+      background-color:#4c901c;
+  }
+h1 {
+      color: #fff;
+      text-transform: uppercase;
+      text-align: center;     
+  }
+ 
+footer{
+	text-align: center;
+	background-color:#3f701c;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  
+}
+
+nav ul li a{
+	background-color: #b9f48f;
+	text-decoration: none;
+	color:#3f701c;
+	}
+
+section{
+	border: 1px solid #96803f;
+	/*background-color: #96803f;*/
+	background-image: url('multimedia/matrix.jpg');
+}
+
+

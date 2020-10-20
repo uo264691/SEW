@@ -1,0 +1,54 @@
+body {
+      font: 400 15px Tahoma, sans-serif; 
+      line-height: 1.8;
+      color: #fff;
+      background-color:#4c901c;
+	  padding: 2px 20px;
+	  position: static;
+  }
+h1 {
+	  background-image: url('multimedia/matrix.jpg');
+      color: #fff;
+      text-transform: uppercase;
+      padding: 50px 25px;
+      text-align: center;     
+  }
+  h2 {
+       
+      color: 	#000000;
+      text-transform: uppercase;
+        
+  }
+  
+footer{
+	text-align: center;
+	background-color:#3f701c;
+	position: static;
+}
+nav ul {
+  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  
+}
+nav {
+	position: static;
+}
+
+nav ul li{display: inline;}
+nav ul li a{
+	padding: 10px;
+	background-color: #b9f48f;
+	text-decoration: none;
+	color:#3f701c;
+	}
+	
+video{
+	width: 50%; 
+	height: auto;
+}
+
+
+

@@ -1,0 +1,55 @@
+/*Especifidad 001*/
+body {
+	  padding: 2px 20px;
+	  position: static;
+  }
+  /*Especifidad 001*/
+h1 {
+      padding: 10px 25px;
+         
+  }
+  /*Especifidad 001*/
+ table {
+   width: 100%;
+  
+}
+/*Especifidad 001*/
+th{
+   width: 25%;
+  
+}
+
+/*Especifidad 001*/
+img{
+	width:15%; 
+	height: auto;
+}
+
+/*Especifidad 002*/
+nav ul {
+  
+  margin: 0;
+  padding: 0;
+ 
+  
+}
+/*Especifidad 003*/
+nav ul li{display: inline;}
+/*Especifidad 003*/
+nav ul li a{
+	padding: 10px;
+	}
+	/*Especifidad 001*/
+section{
+	width: 50%;
+	padding: 10px ;
+	transform: translate(50%, 0);
+	position: static;
+	
+}
+/*Especifidad 001*/
+nav {
+	position: static;
+}
+
+
